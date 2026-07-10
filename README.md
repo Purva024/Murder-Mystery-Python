@@ -22,7 +22,6 @@ Future Features:
 - Add more levels
 - Optimize UI
 
-<b>Run the game directly here: <a href="https://replit.com/@297purvakalambe/Murder-Mystery-Python">PLAY NOW</a></b>
 <br>
 <h3>Game Preview</h3>
 <i>Introduction Scene</i>
